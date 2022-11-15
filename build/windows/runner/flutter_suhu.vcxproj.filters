@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Polinema Alif\Semester 5\Mobile\Flutter\flutter_suhu\flutter_suhu\windows\runner\flutter_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Polinema Alif\Semester 5\Mobile\Flutter\flutter_suhu\flutter_suhu\windows\runner\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Polinema Alif\Semester 5\Mobile\Flutter\flutter_suhu\flutter_suhu\windows\runner\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Polinema Alif\Semester 5\Mobile\Flutter\flutter_suhu\flutter_suhu\windows\runner\win32_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Polinema Alif\Semester 5\Mobile\Flutter\flutter_suhu\flutter_suhu\windows\flutter\generated_plugin_registrant.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Polinema Alif\Semester 5\Mobile\Flutter\flutter_suhu\flutter_suhu\windows\runner\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\Polinema Alif\Semester 5\Mobile\Flutter\flutter_suhu\flutter_suhu\windows\runner\Runner.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{763C774F-C9D7-3095-82C4-990A2F3A2C13}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
