@@ -1,4 +1,4 @@
-# flutter_suhu
+# flutter_suhu_extended
 
 Tugas Mobile Flutter Minggu 12 - Konversi Suhu Extended
 
